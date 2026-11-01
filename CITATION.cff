@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "MBCI: replication code and data for 'A Match-Based Competitiveness Index for Football Leagues'"
+type: software
+license: MIT
+authors:
+  - family-names: "Cherkaoui Rbati"
+    given-names: "Khalid"
+    affiliation: "Laboratory of Mathematics, Artificial Intelligence and Digital Learning, Normal Higher School, Hassan II University of Casablanca"
+  - family-names: "Lahby"
+    given-names: "Mohamed"
+    affiliation: "Laboratory of Mathematics, Artificial Intelligence and Digital Learning, Normal Higher School, Hassan II University of Casablanca"
+keywords:
+  - competitiveness
+  - football
+  - competitive balance
+  - Elo rating
+  - stadium attendance
+preferred-citation:
+  type: article
+  title: "A Match-Based Competitiveness Index for Football Leagues: Integrating Goal Intensity, Outcome Surprise, and Season Stakes"
+  authors:
+    - family-names: "Cherkaoui Rbati"
+      given-names: "Khalid"
+    - family-names: "Lahby"
+      given-names: "Mohamed"
+  journal: "Sports"
+  publisher:
+    name: "MDPI"
+  year: 2026

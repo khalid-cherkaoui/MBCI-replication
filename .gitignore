@@ -1,0 +1,12 @@
+# Python and Jupyter
+__pycache__/
+*.pyc
+
+
+# exports of the step-by-step notebook (regenerated)
+mbci/outputs/elo_davidson/
+
+# FBref data: not redistributed (FBref data-use policy), recreated by the attendance notebook
+attendance/donnees_soccerdata/
+attendance/sorties_affluence/fbref_calendrier_brut.xlsx
+attendance/sorties_affluence/donnees_affluence_mbci.xlsx

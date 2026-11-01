@@ -1,0 +1,233 @@
+﻿section,chiffre,article,calcul,statut
+4.5,w_UCL,0.713,0.7134,OK
+4.5,w_UEL,0.165,0.1651,OK
+4.5,w_UECL,0.121,0.1215,OK
+6,matchs,17732,17732.0,OK
+6,ligues-saisons,49,49.0,OK
+6,matchs 2014/15,1826,1826.0,OK
+6,matchs avec cotes,17726,17726.0,OK
+7,mu,0.347,0.34657,OK
+7,nu EPL,0.61,0.6081,OK
+7,nu LaLiga,0.71,0.7094,OK
+7,h SerieA,50,50.23,OK
+7,h LaLiga,81,81.02,OK
+T3,buts moyenne,2.79,2.7877,OK
+T3,buts ecart-type,1.68,1.6754,OK
+T3,ecart moyenne,1.39,1.3891,OK
+T3,ecart ecart-type,1.24,1.2441,OK
+T3,G moyenne,0.456,0.45644,OK
+T3,G ecart-type,0.24,0.24021,OK
+T3,G mediane,0.5,0.5,OK
+T3,G max,0.956,0.95581,OK
+T3,U moyenne,0.586,0.58569,OK
+T3,U ecart-type,0.182,0.18204,OK
+T3,U min,0.098,0.09803,OK
+T3,U mediane,0.607,0.60654,OK
+T3,U max,0.962,0.96242,OK
+T3,W moyenne,0.384,0.38401,OK
+T3,W ecart-type,0.214,0.21387,OK
+T3,W mediane,0.4,0.4,OK
+T3,MBCI* moyenne,0.36,0.35981,OK
+T3,MBCI* ecart-type,0.114,0.11409,OK
+T3,MBCI* min,0.074,0.0737,OK
+T3,MBCI* mediane,0.349,0.34907,OK
+T3,MBCI* max,0.806,0.80558,OK
+7.1,U apres victoire dom.,0.49,0.486,OK
+7.1,U apres victoire ext.,0.58,0.581,OK
+7.1,U apres nul,0.77,0.767,OK
+T4,1er match (PSG-Le Havre),0.806,0.8056,OK
+T4,2e match (Dortmund-Schalke),0.795,0.7946,OK
+T4,5e match,0.765,0.7649,OK
+7.1,top 10 : enjeu relegation,8,8.0,OK
+7.1,top 10 : nuls,5,5.0,OK
+7.1,top 10 : favori n'a pas gagne,10,10.0,OK
+7.2,KS D min,0.28,0.2767,OK
+7.2,KS D max,0.35,0.3531,OK
+7.2,ecart-type 1er tiers,0.085,0.0853,OK
+7.2,ecart-type 3e tiers,0.126,0.1257,OK
+7.2,matchs < 0.2 (%),6.5,6.457,OK
+7.2,< 0.2 : victoires du favori (%),93,93.36,OK
+7.2,< 0.2 : au plus un but (%),72,72.23,OK
+7.2,< 0.2 : 1er tiers (%),53,53.01,OK
+7.2,0-0 : MBCI moyen,0.27,0.2665,OK
+7.2,hausse 1->3 min (%),26,25.67,OK
+7.2,hausse 1->3 max (%),30,29.61,OK
+7.2,hausse 1->2 min (%),21,20.88,OK
+7.2,hausse 1->2 max (%),24,24.28,OK
+7.2,hausse 2->3 min (%),2,1.54,OK
+7.2,hausse 2->3 max (%),6,6.32,OK
+7.2,EPL : hausse (%),26,26.36,OK
+7.2,EPL : Europe determinante au 3e tiers (%),27,27.46,OK
+7.2,EPL : U au 3e tiers,0.557,0.55732,OK
+7.2,LaLiga : tiers 2,0.372,0.37203,OK
+7.2,LaLiga : W au 3e tiers,0.499,0.49948,OK
+7.2,LaLiga : titre determinant au 3e tiers (%),22,22.08,OK
+7.2,Bundesliga : tiers 2,0.389,0.3888,OK
+7.2,Serie A : hausse (%),29,29.22,OK
+7.2,Ligue 1 : relegation determinante au 3e tiers (%),62,61.9,OK
+7.2,Ligue 1 : titre determinant au 3e tiers (%),15,15.01,OK
+7.2,EPL : >0.5 au 1er tiers (%),0.5,0.5,OK
+7.2,EPL : tiers 1 -> 3,0.304,0.30405,OK
+7.2,EPL : tiers 3,0.384,0.38421,OK
+7.2,LaLiga : tiers 1,0.301,0.30059,OK
+7.2,LaLiga : tiers 3,0.378,0.37775,OK
+7.2,LaLiga : <0.2 au 1er tiers (%),13.3,13.25,OK
+7.2,Bundesliga : tiers 1,0.322,0.32164,OK
+7.2,Bundesliga : tiers 3,0.413,0.41276,OK
+7.2,Bundesliga : >0.5 au 3e tiers (%),27.0,27.037,OK
+7.2,Serie A : >0.5 au 3e tiers (%),21.8,21.846,OK
+7.2,Serie A : rang du meilleur match,12,12.0,OK
+7.2,Ligue 1 : U tiers 1,0.61,0.60964,OK
+T5,BL,0.3755,0.375526,OK
+T5,L1,0.3627,0.36272,OK
+T5,EPL,0.3567,0.356732,OK
+T5,SA,0.3563,0.356297,OK
+T5,LL,0.3514,0.351431,OK
+T5,IC BL,0.372-0.380,0.372-0.380,OK
+T5,IC L1,0.358-0.367,0.358-0.367,OK
+T5,IC EPL,0.353-0.361,0.353-0.361,OK
+T5,IC SA,0.351-0.361,0.351-0.361,OK
+T5,IC LL,0.344-0.358,0.344-0.358,OK
+T5,SD BL,0.0068,0.006779,OK
+T5,SD LL,0.0112,0.011211,OK
+T5,G BL,0.491,0.49071,OK
+T5,G LL,0.434,0.43432,OK
+T5,U L1,0.599,0.59902,OK
+T5,U EPL,0.575,0.57544,OK
+T5,buts BL,3.06,3.0556,OK
+T5,buts LL,2.62,2.6234,OK
+7.3,permutation BL : p Holm max,0.005,0.0053,OK
+7.3,BL - L1 : ecart,0.013,0.01281,OK
+7.3,BL - L1 : IC bas,0.007,0.00681,OK
+7.3,BL - L1 : IC haut,0.019,0.01917,OK
+7.3,g de Hedges BL min,1.7,1.698,OK
+7.3,g de Hedges BL max,2.5,2.524,OK
+7.3,4 autres : p Holm min,0.12,0.1153,OK
+7.3,4 autres : g max,1.1,1.111,OK
+7.3,BL - L1 apparie : p Holm,0.055,0.05469,OK
+7.2,IC bootstrap D min,0.23,0.2288,OK
+7.2,IC bootstrap D max,0.4,0.3985,OK
+7.2,IC bootstrap hausse min (%),20,19.53,OK
+7.2,IC bootstrap hausse max (%),34,33.84,OK
+7.5,r effets fixes ligue et saison,0.2,0.1964,OK
+7.5,p effets fixes,0.25,0.2509,OK
+7.5,IC bootstrap par saison bas,0.1,0.1035,OK
+7.5,IC bootstrap par saison haut,0.55,0.5547,OK
+7.3,BL 2022/23,0.393,0.39263,OK
+7.3,LL 2017/18,0.329,0.32908,OK
+7.3,amplitude min,0.022,0.02247,OK
+7.3,amplitude max,0.035,0.03496,OK
+7.3,ecart max des 4 autres,0.011,0.01129,OK
+7.3,correlation L1-SA,0.78,0.7787,OK
+7.3,saisons avec BL premier,9,9.0,OK
+7.3,premier en 2024/25,Ligue1,Ligue1,OK
+7.3,tendance min (x1e-3),-0.04,-0.0356,OK
+7.3,tendance max (x1e-3),1.2,1.193,OK
+7.3,tendance p min,0.17,0.171,OK
+7.3,correlation min entre ligues,-0.16,-0.1576,OK
+7.4,tiers 1,0.307,0.30676,OK
+7.4,tiers 2,0.377,0.37679,OK
+7.4,tiers 3,0.392,0.39202,OK
+7.4,hausse (%),28,27.79,OK
+7.4,W tiers 1,0.168,0.1676,OK
+7.4,W tiers 3,0.513,0.5129,OK
+7.4,max sigma tiers 1,0.98,0.9801,OK
+7.4,max sigma tiers 3,0.63,0.632,OK
+7.4,sans t/T (%),-19,-18.77,OK
+7.4,max sigma t/T<=0.2,0.99,0.9894,OK
+7.4,max sigma 0.4-0.6,0.92,0.9219,OK
+7.4,derniere journee W=0 (%),56,56.49,OK
+7.4,derniere journee W>=0.9 (%),4,4.18,OK
+7.5,"r(MBCI_s, HHI-)",0.33,0.3322,OK
+7.5,p,0.02,0.0197,OK
+7.5,IC bas,0.06,0.0562,OK
+7.5,IC haut,0.56,0.561,OK
+7.5,r au sein des ligues,0.27,0.2719,OK
+7.5,p au sein des ligues,0.07,0.0708,OK
+7.5,r HHI des victoires,0.3,0.2998,OK
+7.5,r U_s,0.83,0.8274,OK
+7.5,r G_s,-0.27,-0.2689,OK
+7.5,r W_s,0.28,0.2847,OK
+7.5,r alpha=0,0.79,0.789,OK
+7.5,r alpha=1,-0.17,-0.1723,OK
+7.7,corr toutes issues,0.91,0.91,OK
+7.7,corr victoires,0.9,0.8963,OK
+7.7,corr nuls,0.78,0.7773,OK
+7.7,matchs decisifs,13286,13286.0,OK
+7.7,pente,2.45,2.4549,OK
+7.7,t,135,135.5,OK
+7.7,R2 toutes issues,0.83,0.8282,OK
+7.7,R2 victoires,0.8,0.8034,OK
+7.7,R2 + victoire ext.,0.81,0.8074,OK
+7.7,coef. victoire ext.,0.06,0.0645,OK
+7.7,R2 rangs victoires,0.43,0.4274,OK
+7.7,R2 rangs toutes issues,0.05,0.051,OK
+7.7,U favori (0.8-0.9),0.24,0.2423,OK
+7.7,U nul (0.8-0.9),0.84,0.8376,OK
+7.7,U outsider (0.8-0.9),0.92,0.9201,OK
+7.7,marche favori,0.22,0.223,OK
+7.7,marche nul,0.85,0.855,OK
+7.7,marche outsider,0.92,0.922,OK
+7.7,log-perte Elo,0.985,0.98539,OK
+7.7,log-perte marche,0.965,0.96522,OK
+7.7,"r(MBCI*, H_mkt)",0.21,0.2085,OK
+7.7,"r(U, H_mkt)",0.5,0.4959,OK
+7.7,"r(W, H_mkt)",-0.02,-0.0182,OK
+7.7,"r(G, H_mkt)",-0.08,-0.0841,OK
+7.8,grille : BL premier,48,48.0,OK
+7.8,"W change (calendrier, %)",26.5,26.506,OK
+7.8,"W change (EPS, %)",1,0.891,OK
+7.8,max |dW| (rang moyen),0,0.0,OK
+7.8,additive : rho,0.98,0.984,OK
+7.8,additive : top 100,95,95.0,OK
+7.8,geometrique : zeros (%),9,9.03,OK
+7.8,0-0 fort enjeu : percentile,53,52.94,OK
+7.8,0-0 fort enjeu : percentile (rangs),7,6.94,OK
+7.8,enjeu determinant relegation (%),64,64.2,OK
+7.8,titre (%),28,27.7,OK
+7.8,Europe (%),8,8.1,OK
+T6,baseline : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,baseline : r_HHI,0.33,0.3322,OK
+T6,baseline : hausse (%),28,27.79,OK
+T6,ties_avg : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,ties_avg : r_HHI,0.33,0.3322,OK
+T6,ties_avg : hausse (%),28,27.79,OK
+T6,calendar : classement,BL > L1 > SA > EPL > LL,BL > L1 > SA > EPL > LL,OK
+T6,calendar : r_HHI,0.33,0.33,OK
+T6,calendar : hausse (%),28,27.73,OK
+T6,eps_unant : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,eps_unant : r_HHI,0.32,0.3196,OK
+T6,eps_unant : hausse (%),28,27.8,OK
+T6,w_equal : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,w_equal : r_HHI,0.35,0.3505,OK
+T6,w_equal : hausse (%),37,37.4,OK
+T6,w_kg : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,w_kg : r_HHI,0.18,0.1759,OK
+T6,w_kg : hausse (%),7,6.88,OK
+T6,no_tT : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,no_tT : r_HHI,0.31,0.3084,OK
+T6,no_tT : hausse (%),-19,-18.77,OK
+T6,alpha0 : classement,L1 > BL > LL > SA > EPL,L1 > BL > LL > SA > EPL,OK
+T6,alpha0 : r_HHI,0.79,0.789,OK
+T6,alpha0 : hausse (%),26,25.75,OK
+T6,alpha1 : classement,BL > EPL > SA > L1 > LL,BL > EPL > SA > L1 > LL,OK
+T6,alpha1 : r_HHI,-0.17,-0.1723,OK
+T6,alpha1 : hausse (%),30,30.45,OK
+T6,lam0 : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,lam0 : r_HHI,0.19,0.186,OK
+T6,lam0 : hausse (%),-1,-1.05,OK
+T6,lam2 : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,lam2 : r_HHI,0.36,0.3584,OK
+T6,lam2 : hausse (%),49,49.39,OK
+T6,additive : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,additive : r_HHI,0.34,0.3355,OK
+T6,additive : hausse (%),27,27.44,OK
+T6,geometric : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,geometric : r_HHI,0.2,0.1979,OK
+T6,geometric : hausse (%),39,39.12,OK
+T6,rank_surprise : classement,BL > EPL > L1 > SA > LL,BL > EPL > L1 > SA > LL,OK
+T6,rank_surprise : r_HHI,0.18,0.1795,OK
+T6,rank_surprise : hausse (%),27,27.4,OK
+T6,no_warmup : classement,BL > L1 > EPL > SA > LL,BL > L1 > EPL > SA > LL,OK
+T6,no_warmup : r_HHI,0.35,0.3453,OK
+T6,no_warmup : hausse (%),28,27.56,OK

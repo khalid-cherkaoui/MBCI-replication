@@ -1,0 +1,16 @@
+variant,ranking,r_HHI,gain_pct
+"Baseline (alpha = 0.5, lambda = 1, c = 0.5)",BL > L1 > EPL > SA > LL,0.33,28
+Tied clubs at average rank,BL > L1 > EPL > SA > LL,0.33,28
+Calendar-based standings,BL > L1 > SA > EPL > LL,0.33,28
+European Performance Spots unanticipated,BL > L1 > EPL > SA > LL,0.32,28
+Equal European weights (w_b = 1),BL > L1 > EPL > SA > LL,0.35,37
+Prestige weights of Kringstad and Gerrard,BL > L1 > EPL > SA > LL,0.18,7
+No temporal factor (W_k = max sigma),BL > L1 > EPL > SA > LL,0.31,-19
+alpha = 0 (no intensity),L1 > BL > LL > SA > EPL,0.79,26
+alpha = 1 (no surprise),BL > EPL > SA > L1 > LL,-0.17,30
+lambda = 0 (no stakes),BL > L1 > EPL > SA > LL,0.19,-1
+lambda = 2,BL > L1 > EPL > SA > LL,0.36,49
+Additive form (G_k + U_k + W_k)/3,BL > L1 > EPL > SA > LL,0.34,27
+Geometric form (G_k U_k W_k)^(1/3),BL > L1 > EPL > SA > LL,0.2,39
+Rank-based surprise,BL > EPL > L1 > SA > LL,0.18,27
+Ratings without the 2014/15 initialisation,BL > L1 > EPL > SA > LL,0.35,28
